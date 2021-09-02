@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/dywang/.ssh'
+let g:netrw_dirhist_2='/private/tmp/powerlog'
+let g:netrw_dirhist_3='/Users/dywang/PycharmProjects'
+let g:netrw_dirhist_4='/Users/dywang/Software/ml-platform/pathai/analysis'
+let g:netrw_dirhist_5='/Users/dywang/Software/ml-platform/pathai/analysis/tools'
+let g:netrw_dirhist_6='/Users/dywang/Software/ml-platform/pathai/analysis'
+let g:netrw_dirhist_7='/Users/dywang/Software/ml-platform/pathai/analysis/tools'
+let g:netrw_dirhist_8='/Users/dywang/tmp/i1.txt'

@@ -1,0 +1,17 @@
+shell -$SHELL
+
+vbell off
+bindkey -k F1 prev
+bindkey -k F2 next
+
+startup_message off
+
+hardstatus alwayslastline
+#%hardstatus string "%-w%{= BW}%50>%n %t%{-}%+w%<"
+hardstatus string "%{= KW} %S %{= Kw}|%{-} %-Lw%{= bW}%n%f %t%{-}%+Lw %=%C%a %Y-%M-%d"
+
+attrcolor b ".I"
+#termcapinfo xterm 'Co#256:AB=\E[48;5;%dm:AF=\E38;5;%dm'
+defbce "on"
+
+termcapinfo xterm* ti@:te@
