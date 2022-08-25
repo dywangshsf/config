@@ -2,7 +2,6 @@
 
 #=================================================================
 set bell-style none
-eval `dircolors /home/dywang/.dir_colors`
 export TERM='xterm-256color'
 
 #echo ">>>>>>>>>>>>>>>>>> export <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
